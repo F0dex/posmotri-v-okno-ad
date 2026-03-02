@@ -1,1 +1,1 @@
-https://github.com/TopMob/posmotri-v-okno-ad
+https://github.com/F0dex/posmotri-v-okno-ad
